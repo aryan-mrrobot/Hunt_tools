@@ -64,5 +64,11 @@ This script installs the following Go-based tools:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/recon.sh.git
+   git clone https://github.com/yourusername/Hunt_tools.git
+   ```
+2. Installation
+
+   ```bash
+   chmod +x recon.sh
+   ./recon.sh
    ```
